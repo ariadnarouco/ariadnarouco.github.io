@@ -1,0 +1,11 @@
+div{
+	&:nth-child(119),&:nth-child(135),&:nth-child(138),
+	&:nth-child(n+151):nth-child(-n+154),
+	&:nth-child(n+166):nth-child(-n+171),
+	&:nth-child(n+182):nth-child(-n+187),
+	&:nth-child(n+197):nth-child(-n+204),
+	&:nth-child(n+213):nth-child(-n+215),
+	&:nth-child(n+218):nth-child(-n+220){
+		background-color: $blue-color;
+	}
+}

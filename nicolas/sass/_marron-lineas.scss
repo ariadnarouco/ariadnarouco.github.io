@@ -1,0 +1,12 @@
+div{
+	&:nth-child(n+37):nth-child(-n+39),
+	&:nth-child(52),&:nth-child(54),
+	&:nth-child(68),&:nth-child(70),&:nth-child(71),
+	&:nth-child(84),&:nth-child(85),
+	&:nth-child(n+228):nth-child(-n+230),
+	&:nth-child(n+235):nth-child(-n+237),
+	&:nth-child(n+243):nth-child(-n+246),
+	&:nth-child(n+251):nth-child(-n+254){
+		background-color: $brown-color;
+	}
+}

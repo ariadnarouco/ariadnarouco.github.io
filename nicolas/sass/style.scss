@@ -1,0 +1,66 @@
+@import "variables";
+@import "primera-linea";
+@import "piel-lineas";
+@import "marron-lineas";
+@import "azul-lineas";
+@import "negro-lineas";
+@import "amarilla-lineas";
+
+
+
+div{
+	width: 50px;
+	height: 50px;
+	background-color: $green-color;
+	float: left;
+
+
+
+
+	&:nth-child(17){
+		clear: both;
+	}
+	&:nth-child(33){
+		clear: both;
+	}
+	&:nth-child(49){
+		clear: both;
+	}
+	&:nth-child(65){
+		clear: both;
+	}
+	&:nth-child(81){
+		clear: both;
+	}
+	&:nth-child(97){
+		clear: both;
+	}
+	&:nth-child(113){
+		clear: both;
+	}
+	&:nth-child(129){
+		clear: both;
+	}
+	&:nth-child(145){
+		clear: both;
+	}
+	&:nth-child(161){
+		clear: both;
+	}
+	&:nth-child(177){
+		clear: both;
+	}
+	&:nth-child(193){
+		clear: both;
+	}
+	&:nth-child(209){
+		clear: both;
+	}
+	&:nth-child(225){
+		clear: both;
+	}
+	&:nth-child(241){
+		clear: both;
+	}
+
+}

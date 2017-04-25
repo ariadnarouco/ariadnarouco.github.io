@@ -1,0 +1,5 @@
+div{
+	&:nth-child(167),&:nth-child(170){
+		background-color: $yellow-color !important;
+	}
+}

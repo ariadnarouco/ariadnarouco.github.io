@@ -1,0 +1,7 @@
+div{
+	&:nth-child(43),&:nth-child(59),
+	&:nth-child(76),
+	&:nth-child(n+91):nth-child(-n+94){
+		background-color: $black-color !important;
+	}
+}

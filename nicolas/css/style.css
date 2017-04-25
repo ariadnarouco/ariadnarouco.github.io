@@ -1,0 +1,63 @@
+/*Colores*/
+/*Colores*/
+div:nth-child(6), div:nth-child(7), div:nth-child(8), div:nth-child(9), div:nth-child(10), div:nth-child(11), div:nth-child(21), div:nth-child(22), div:nth-child(23), div:nth-child(24), div:nth-child(25), div:nth-child(26), div:nth-child(27), div:nth-child(28), div:nth-child(29), div:nth-child(30) {
+  background-color: #ff0000; }
+div:nth-child(n+117):nth-child(-n+118), div:nth-child(n+120):nth-child(-n+123) {
+  background-color: #ff0000; }
+div:nth-child(n+132):nth-child(-n+134), div:nth-child(n+136):nth-child(-n+137), div:nth-child(n+139):nth-child(-n+141) {
+  background-color: #ff0000; }
+div:nth-child(n+147):nth-child(-n+158), div:nth-child(165), div:nth-child(172) {
+  background-color: #ff0000; }
+
+div:nth-child(n+40):nth-child(-n+44), div:nth-child(53), div:nth-child(n+55):nth-child(-n+62), div:nth-child(69), div:nth-child(n+72):nth-child(-n+79), div:nth-child(n+86):nth-child(-n+90), div:nth-child(n+102):nth-child(-n+109), div:nth-child(n+163):nth-child(-n+164), div:nth-child(n+179):nth-child(-n+181), div:nth-child(n+195):nth-child(-n+196), div:nth-child(n+173):nth-child(-n+174), div:nth-child(n+188):nth-child(-n+190), div:nth-child(n+205):nth-child(-n+206) {
+  background-color: #ffbd87; }
+
+div:nth-child(n+37):nth-child(-n+39), div:nth-child(52), div:nth-child(54), div:nth-child(68), div:nth-child(70), div:nth-child(71), div:nth-child(84), div:nth-child(85), div:nth-child(n+228):nth-child(-n+230), div:nth-child(n+235):nth-child(-n+237), div:nth-child(n+243):nth-child(-n+246), div:nth-child(n+251):nth-child(-n+254) {
+  background-color: #994400; }
+
+div:nth-child(119), div:nth-child(135), div:nth-child(138), div:nth-child(n+151):nth-child(-n+154), div:nth-child(n+166):nth-child(-n+171), div:nth-child(n+182):nth-child(-n+187), div:nth-child(n+197):nth-child(-n+204), div:nth-child(n+213):nth-child(-n+215), div:nth-child(n+218):nth-child(-n+220) {
+  background-color: #3071f2; }
+
+div:nth-child(43), div:nth-child(59), div:nth-child(76), div:nth-child(n+91):nth-child(-n+94) {
+  background-color: #000000 !important; }
+
+div:nth-child(167), div:nth-child(170) {
+  background-color: #ffd800 !important; }
+
+div {
+  width: 50px;
+  height: 50px;
+  background-color: #4bb74b;
+  float: left; }
+  div:nth-child(17) {
+    clear: both; }
+  div:nth-child(33) {
+    clear: both; }
+  div:nth-child(49) {
+    clear: both; }
+  div:nth-child(65) {
+    clear: both; }
+  div:nth-child(81) {
+    clear: both; }
+  div:nth-child(97) {
+    clear: both; }
+  div:nth-child(113) {
+    clear: both; }
+  div:nth-child(129) {
+    clear: both; }
+  div:nth-child(145) {
+    clear: both; }
+  div:nth-child(161) {
+    clear: both; }
+  div:nth-child(177) {
+    clear: both; }
+  div:nth-child(193) {
+    clear: both; }
+  div:nth-child(209) {
+    clear: both; }
+  div:nth-child(225) {
+    clear: both; }
+  div:nth-child(241) {
+    clear: both; }
+
+/*# sourceMappingURL=style.css.map */

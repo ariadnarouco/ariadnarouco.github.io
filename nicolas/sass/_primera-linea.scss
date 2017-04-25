@@ -1,0 +1,29 @@
+@import "variables";
+
+div{
+	&:nth-child(6),&:nth-child(7),&:nth-child(8),
+	&:nth-child(9),&:nth-child(10),&:nth-child(11),
+	&:nth-child(21),&:nth-child(22),&:nth-child(23),
+	&:nth-child(24),&:nth-child(25),&:nth-child(26),
+	&:nth-child(27),&:nth-child(28),&:nth-child(29),
+	&:nth-child(30)	{
+		background-color: $red-color;
+	}	
+
+	&:nth-child(n+117):nth-child(-n+118),
+	&:nth-child(n+120):nth-child(-n+123){
+		background-color: $red-color;
+	}
+	
+	&:nth-child(n+132):nth-child(-n+134),
+	&:nth-child(n+136):nth-child(-n+137),
+	&:nth-child(n+139):nth-child(-n+141){
+		background-color: $red-color;
+	}
+
+	&:nth-child(n+147):nth-child(-n+158),&:nth-child(165),&:nth-child(172){
+		background-color: $red-color;
+	}
+
+}
+

@@ -1,0 +1,21 @@
+div{
+	&:nth-child(n+40):nth-child(-n+44),
+	&:nth-child(53),
+	&:nth-child(n+55):nth-child(-n+62),
+	&:nth-child(69),
+	&:nth-child(n+72):nth-child(-n+79),
+	&:nth-child(n+86):nth-child(-n+90),
+	&:nth-child(n+102):nth-child(-n+109),
+	&:nth-child(n+163):nth-child(-n+164),
+	&:nth-child(n+179):nth-child(-n+181),
+	&:nth-child(n+195):nth-child(-n+196),
+	&:nth-child(n+173):nth-child(-n+174),
+	&:nth-child(n+188):nth-child(-n+190),
+	&:nth-child(n+205):nth-child(-n+206),
+
+
+	{
+		background-color: $skin-color;
+	}
+
+}
